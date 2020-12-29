@@ -4,14 +4,14 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 	<br>
 </div>
-<div align="center" wrap="nowrap">
+<div align="center" >
       <p>
         Seja bem vindo! 
 	<br>
       </p>
 </div>
 <div>
-<div align="center"> 	
+<div align="center" wrap="nowrap"> 	
 
 
 ### 🏆 Github Status
