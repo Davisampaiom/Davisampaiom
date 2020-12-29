@@ -5,6 +5,7 @@
 	<br>
 </div>
 <div align="center" >
+      
       ```javascript
 const Davi = {
   pronouns: "he" | "him",
@@ -12,9 +13,9 @@ const Davi = {
   tools: [React, Bootstrap, ...],
   currentOccupation: ["Full-Stack student(Recode Pro)"],
 }
-```
+``` 
 </div>
-<div>
+
 <div> 	
 
 
