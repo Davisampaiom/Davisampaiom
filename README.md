@@ -14,6 +14,6 @@
 
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Davisampaiom&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Davisampaiom&theme=onedark&show_icons=true)
 
 </div>
