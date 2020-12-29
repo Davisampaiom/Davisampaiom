@@ -5,20 +5,17 @@
 	<br>
 </div>
 <div align="center" >
-      
-      ```javascript
-const Davi = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Mysql, Php],
-  tools: [React, Bootstrap, ...],
-  currentOccupation: ["Full-Stack student(Recode Pro)"],
-}
-``` 
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Mysql, Php, ...],
+   tools: [React, Bootstrap, ...],
+};
+```
 </div>
 
 <div> 	
-
-
 ### 🏆 Github Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davisampaiom&show_icons=true&theme=onedark)
 
