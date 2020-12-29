@@ -11,6 +11,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Mysql, Php, ...],
    tools: [React, Bootstrap, ...],
+   currentOccupation: ["Full-Stack student (Recode Pro) "],
 };
 ```
 </div>
