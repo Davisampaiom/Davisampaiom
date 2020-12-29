@@ -10,7 +10,7 @@
 	<br>
       </p>
 </div>
-<div align="center"> 	
+<div> 	
 
 
 ### 🏆 Github Status
