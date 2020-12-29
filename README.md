@@ -1,4 +1,4 @@
-<h2 align="center">### Hi there, I'm David Sampaio :computer::iphone::arrows_counterclockwise: </h2>
+<h2 align="center">:smile: Hi there, I'm David Sampaio :computer::iphone::arrows_counterclockwise: </h2>
 
 <div align="center">
 	
