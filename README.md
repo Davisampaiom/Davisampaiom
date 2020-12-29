@@ -1,4 +1,4 @@
-<h2 align="center">### Hi there, I'm David Sampaio 👋</h2>
+<h2 align="center">### Hi there, I'm David Sampaio :computer::iphone::sound: </h2>
 
 <div align="center">
 	
