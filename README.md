@@ -14,6 +14,6 @@
 
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Davisampaiomn&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davisampaiom&show_icons=true&theme=radical)
 
 </div>
