@@ -7,6 +7,7 @@
 <div align="center">
       <p>
         Seja bem vindo! 
+	<br>
       </p>
 </div>
 <div align="center"> 	
