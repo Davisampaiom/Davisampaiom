@@ -1,4 +1,8 @@
 <h2 align="center">### Hi there, I'm David Sampaio 👋</h2>
+
+[![Linkedin: Davisampaiom](https://img.shields.io/badge/-davisampaiom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)](https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)
+[![GitHub Davisampaiom](https://img.shields.io/github/followers/Davisampaiom?label=follow&style=social)](https://github.com/Davisampaiom)
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
@@ -16,8 +20,6 @@ const aboutMe = {
 ```
 </div>
 
-[![Linkedin: Davisampaiom](https://img.shields.io/badge/-davisampaiom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)](https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)
-[![GitHub Davisampaiom](https://img.shields.io/github/followers/Davisampaiom?label=follow&style=social)](https://github.com/Davisampaiom)
 
 
 <div> 	
