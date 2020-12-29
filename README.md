@@ -15,11 +15,11 @@ const aboutMe = {
 };
 ```
 </div>
-<div>
+
 [![Linkedin: Davisampaiom](https://img.shields.io/badge/-davisampaiom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)](https://www.linkedin.com/in/davi-sampaio-0b7b0a69//)
 [![GitHub Davisampaiom](https://img.shields.io/github/followers/Davisampaiom?label=follow&style=social)](https://github.com/Davisampaiom)
 
-</div>
+
 <div> 	
 	
 ### 🏆 Github Status
