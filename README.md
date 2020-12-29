@@ -5,10 +5,14 @@
 	<br>
 </div>
 <div align="center" >
-      <p>
-        Seja bem vindo! 
-	<br>
-      </p>
+      ```javascript
+const Davi = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Mysql, Php],
+  tools: [React, Bootstrap, ...],
+  currentOccupation: ["Full-Stack student(Recode Pro)"],
+}
+```
 </div>
 <div>
 <div> 	
