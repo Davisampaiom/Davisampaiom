@@ -18,8 +18,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Mysql, Php, ...],
-   tools: [React, Bootstrap, ...],
+   code: [Javascript, HTML, CSS, Mysql, Php, Python, Node.js, Mongo db ...],
+   tools: [React, React-Native, Next.js, Bootstrap, Material-UI ...],
    currentOccupation: ["Full-Stack student (Recode Pro) "],
 };
 ```
