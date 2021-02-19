@@ -19,7 +19,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Mysql, Php, Python, Node.js, Mongo db ...],
-   tools: [React, React-Native, Next.js, Bootstrap, Material-UI ...],
+   tools: [React, React-Native, Next.js, Bootstrap, Material-UI, Styled Components ...],
    currentOccupation: ["Full-Stack student (Recode Pro) "],
 };
 ```
