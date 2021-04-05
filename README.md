@@ -20,7 +20,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Mysql, Php, Python, Node.js, Mongo db,
           React, React-Native, Next.js, Bootstrap, Styled Components ...],
-   currentOccupation: [" CS-50 Havard... "],
+   currentOccupation: ["Studying CS-50 Havard "],
    Full-Stack_RecodePro = true,
 };
 ```
