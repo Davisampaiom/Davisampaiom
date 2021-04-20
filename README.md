@@ -19,8 +19,8 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Mysql, Php, Python, Node.js, Mongo db,
-          React, React-Native, Next.js, Bootstrap, Styled Components ...],
-   currentOccupation: ["Studying CS-50 Havard "],
+          React, React-Native, Next.js, Bootstrap, Styled Components, Sass ...],
+   currentOccupation: ["Studying... "],
    Full-Stack_RecodePro = true,
 };
 ```
